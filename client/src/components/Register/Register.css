@@ -1,0 +1,62 @@
+.head{
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: linear-gradient(to right, #000428, #004e92);
+
+  }
+
+  .RegDiv {
+    width: 500px;
+    margin: 50px auto;
+    padding: 50px;
+    background-image: linear-gradient(to right, #004e92, #000428);
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="password"],
+  input[type="date"]  {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    transition: border-bottom 0.3s;
+  }
+
+  input[type="text"]:focus,
+  input[type="email"]:focus,
+  input[type="password"]:focus,
+  input[type="date"] {
+    outline: none;
+    border-bottom: 2px solid #555;
+  }
+
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+
+  input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }

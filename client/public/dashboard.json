@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "industry_name": "Hollywood",
+        "industry_code": "HOL"
+    },
+    {
+        "id": 2,
+        "industry_name": "Bollywood",
+        "industry_code": "BOL"
+    },
+    {
+        "id": 3,
+        "industry_name": "Kollywood",
+        "industry_code": "KOL"
+    },
+    {
+        "id": 4,
+        "industry_name": "Mollywood",
+        "industry_code": "MOL"
+       
+        
+    },
+    {
+        "id": 5,
+        "industry_name": "Tollywood",
+        "industry_code": "TOL"
+        
+    },
+    {
+        "id": 6,
+        "industry_name": "Sandwood",
+        "industry_code": "SANDAL"
+    }
+]

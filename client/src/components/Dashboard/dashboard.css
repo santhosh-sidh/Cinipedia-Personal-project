@@ -1,0 +1,26 @@
+body {
+    background-image: linear-gradient(to right, #000428, #004e92);
+}
+
+.DashCard:hover {
+    cursor: pointer;
+    background-color: black;
+    opacity: 0.5;
+    color: black;
+    position: static;
+    transition: transform .4s;
+    transform: scale(1.1);
+}
+
+.card-header {
+    text-align: center;
+}
+
+.card-title {
+    text-align: center;
+}
+.DashCard{
+    width: 400px;
+    padding: 40px;
+    margin-bottom: 100px;
+}
